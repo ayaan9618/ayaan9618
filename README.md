@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🌱 I’m currently learning B TECH<br><br>💬 Ask me about HTML,CSS,PYTHON.<br><br>📫 How to reach me iyandevop@outlook.com<br><br>⚡ Fun fact I am really insane.<br>
+🌱 I’m currently learning B TECH<br><br>💬 Ask me about HTML,CSS,PYTHON,C,JAVA..<br><br>📫 How to reach me iyandevop@outlook.com<br><br>⚡ Fun fact I am really insane.<br>
 
 
 ## 🌐 Socials:
