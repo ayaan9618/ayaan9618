@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website?style=social&logo=https%3A%2F%2Fgithub.com%2Fayaan9618%2Fmysite%2Fblob%2Fmain%2Fimg%2Ficon.jpg%3Fraw%3Dtrue
-)](https://isayaan.me)
+[![Website](https://img.shields.io/badge/Website?)](https://isayaan.me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyan.devop) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedayaanurrahman) 
 
 # 💻 Tech Stack:
