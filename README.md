@@ -22,7 +22,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)]
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AYAAN9618&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
