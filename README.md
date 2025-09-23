@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Website](https://github.com/ayaan9618/mysite/blob/main/img/icon.jpg?raw=true)](https://isayaan.me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyan.devop) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedayaanurrahman) 
 
 # 💻 Tech Stack:
