@@ -32,6 +32,11 @@
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 
+
+# 🎖️Badges:
+[![An image of @ayaan9618's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayaan9618)](https://holopin.io/@ayaan9618)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AYAAN9618&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AYAAN9618&theme=dark&hide_border=true)<br/>
