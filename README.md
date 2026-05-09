@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'M Mohammed Ayaan Ur Rahman<br>- A Python Developer
+### Hi, I'M Mohammed Ayaan Ur Rahman
+<br>- A Python Developer
 
 
 ## 🌐 Socials:
